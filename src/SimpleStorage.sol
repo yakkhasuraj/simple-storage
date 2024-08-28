@@ -1,8 +1,6 @@
-// SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.9;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.26;
 
-
-// Author: @yakkhasuraj
 contract SimpleStorage {
     uint256 favoriteNumber;
 
